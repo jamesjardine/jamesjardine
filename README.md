@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jamesjardine/jamesjardine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James Jardine, Application Security Enthusiast!
 
-Here are some ideas to get you started:
+I focus on helping organizations mature their application security program while breaking down the barriers between security and the development teams. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on helping impement training options for the development teams to enghance their current skillsets with security techniques.
+
+I am an avid Podcaster:
+- <a href="podcast.wh1t3rabbit.net">Down the Security Rabbithole</a> - Enterprise security podcast with over 500 episodes. 
+- <a href="podcast.developsec.com">DevelopSec Podcast</a> - Application security podcast with over 100 episodes.
+
+Want to learn more about what I do? Check out <a href="www.developsec.com">DevelopSec</a>
+
+
